@@ -46,6 +46,7 @@ Have fun experimenting!
 
 ## Project Explanation - Part 1 & 2
 [![Project Explanation Part 1](http://img.youtube.com/vi/ewL0ZDToKYs/0.jpg)](http://www.youtube.com/watch?v=ewL0ZDToKYs "Project Explanation Part 1")
+
 [![Project Explanation Part 2](http://img.youtube.com/vi/1HljDi3xb6I/0.jpg)](http://www.youtube.com/watch?v=1HljDi3xb6I "Project Explanation Part 2")
 
 ![Picture1](images/Picture1.png)
