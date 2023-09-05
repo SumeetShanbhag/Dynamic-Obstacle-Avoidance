@@ -55,8 +55,6 @@ Have fun experimenting!
 
 (Note: GitHub might not display .emf files correctly)
 
-![Picture5](images/Picture5.png)
-
 ![Picture6](images/Picture6.png)
 
 ![Screenshot 2023-07-30 112450](images/Screenshot%202023-07-30%20112450.png)
