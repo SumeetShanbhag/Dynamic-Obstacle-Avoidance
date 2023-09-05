@@ -1,12 +1,6 @@
 # Social-Navigation
 This project implements various Global Planners like A*, Dijkstra's, and Lattice Planner. It also includes various Local Planners such as DWA, TEB, and Timed path planner for dynamic obstacle avoidance. The performance of the implemented planners are compared with each other.
 
-## Project Explanation - Part 1
-[![Project Explanation Part 1](http://img.youtube.com/vi/ewL0ZDToKYs/0.jpg)](http://www.youtube.com/watch?v=ewL0ZDToKYs "Project Explanation Part 1")
-## Project Explanation - Part 2
-[![Project Explanation Part 2](http://img.youtube.com/vi/1HljDi3xb6I/0.jpg)](http://www.youtube.com/watch?v=1HljDi3xb6I "Project Explanation Part 2")
-
-
 ## Instructions on how to run our project
 
 ### Step 1
@@ -49,6 +43,11 @@ By now you would be able to see the robot moving in the hospital environment.
 
 ### Step 10
 Have fun experimenting!
+
+## Project Explanation - Part 1
+[![Project Explanation Part 1](http://img.youtube.com/vi/ewL0ZDToKYs/0.jpg)](http://www.youtube.com/watch?v=ewL0ZDToKYs "Project Explanation Part 1")
+## Project Explanation - Part 2
+[![Project Explanation Part 2](http://img.youtube.com/vi/1HljDi3xb6I/0.jpg)](http://www.youtube.com/watch?v=1HljDi3xb6I "Project Explanation Part 2")
 
 ![Picture1](images/Picture1.png)
 
